@@ -26,5 +26,16 @@ namespace TheImmortalTrail
         {
             this.InitializeComponent();
         }
+        public void nextScene(int score, string saveKey)
+        {
+
+        }
+
+    }
+
+    public class Player
+    {
+        int score = 100;
+        string saveKey = "S1";
     }
 }
