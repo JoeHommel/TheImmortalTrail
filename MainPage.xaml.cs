@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Runtime.InteropServices.WindowsRuntime;
+using TheImmortalTrail.Models;
 using Windows.Foundation;
 using Windows.Foundation.Collections;
 using Windows.UI.Xaml;
@@ -26,16 +27,24 @@ namespace TheImmortalTrail
         {
             this.InitializeComponent();
         }
-        public void nextScene(int score, string saveKey)
+        public void NextScene(int score, string saveKey)
         {
 
         }
 
+        public void SaveState()
+        {
+
+        }
+
+        public Player LoadState(string loadPath)
+        {
+            Player p = new Player();
+
+            return p;
+        }
+
     }
 
-    public class Player
-    {
-        int score = 100;
-        string saveKey = "S1";
-    }
+    
 }
