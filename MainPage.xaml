@@ -9,6 +9,8 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
-
+        <Image x:Name="ImageBox"></Image>
+        <Canvas x:Name="Canvasation"></Canvas>
+        <Grid x:Name="ButtonGrid"></Grid>
     </Grid>
 </Page>
