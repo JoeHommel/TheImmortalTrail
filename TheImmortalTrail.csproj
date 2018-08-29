@@ -99,7 +99,10 @@
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
     <Compile Include="Models\Player.cs" />
+<<<<<<< HEAD
     <Compile Include="Models\Story.cs" />
+=======
+>>>>>>> master
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

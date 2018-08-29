@@ -31,13 +31,21 @@
     <AppXManifest Include="C:\Users\Joe Hommel\source\repos\TheImmortalTrail\TheImmortalTrail\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+<<<<<<< HEAD
       <Modified>2018-08-29T22:28:16.830</Modified>
+=======
+      <Modified>2018-08-28T20:28:08.952</Modified>
+>>>>>>> master
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Joe Hommel\source\repos\TheImmortalTrail\TheImmortalTrail\bin\x86\Debug\TheImmortalTrail.exe">
       <PackagePath>entrypoint\TheImmortalTrail.exe</PackagePath>
+<<<<<<< HEAD
       <Modified>2018-08-29T22:28:16.553</Modified>
+=======
+      <Modified>2018-08-28T20:28:08.455</Modified>
+>>>>>>> master
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joe Hommel\.nuget\packages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -535,6 +543,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joe Hommel\source\repos\TheImmortalTrail\TheImmortalTrail\bin\x86\Debug\TheImmortalTrail.xr.xml">
       <PackagePath>TheImmortalTrail.xr.xml</PackagePath>
+<<<<<<< HEAD
       <Modified>2018-08-29T16:41:50.518</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joe Hommel\source\repos\TheImmortalTrail\TheImmortalTrail\bin\x86\Debug\App.xbf">
@@ -544,6 +553,17 @@
     <AppxPackagedFile Include="C:\Users\Joe Hommel\source\repos\TheImmortalTrail\TheImmortalTrail\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
       <Modified>2018-08-29T22:28:16.416</Modified>
+=======
+      <Modified>2018-08-28T19:32:06.476</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Joe Hommel\source\repos\TheImmortalTrail\TheImmortalTrail\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2018-08-28T20:28:08.260</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Joe Hommel\source\repos\TheImmortalTrail\TheImmortalTrail\bin\x86\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2018-08-28T20:28:08.261</Modified>
+>>>>>>> master
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17134.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -552,11 +572,19 @@
     <AppxPackagedFile Include="C:\Users\Joe Hommel\source\repos\TheImmortalTrail\TheImmortalTrail\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+<<<<<<< HEAD
       <Modified>2018-08-29T16:00:26.831</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Joe Hommel\source\repos\TheImmortalTrail\TheImmortalTrail\bin\x86\Debug\Core\TheImmortalTrail.exe">
       <PackagePath>TheImmortalTrail.exe</PackagePath>
       <Modified>2018-08-29T22:28:16.827</Modified>
+=======
+      <Modified>2018-08-28T19:32:09.246</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Joe Hommel\source\repos\TheImmortalTrail\TheImmortalTrail\bin\x86\Debug\Core\TheImmortalTrail.exe">
+      <PackagePath>TheImmortalTrail.exe</PackagePath>
+      <Modified>2018-08-28T20:28:08.945</Modified>
+>>>>>>> master
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
